@@ -17,9 +17,8 @@ body{
 
 #middle {
   top: 50%;
-  z-index: -100;
-  width: calc(100%);
-  position: absolute;
+  width: 100vw;
+  position: fixed;
   background-color: white;
   padding: 0.5rem;
   border: none;
